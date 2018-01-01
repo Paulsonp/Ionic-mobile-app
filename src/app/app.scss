@@ -1,6 +1,13 @@
 // http://ionicframework.com/docs/theming/
-
-
+ion-toolbar {
+     h3 {
+        position: relative;
+        top: -3px;
+        color: #fff;
+        text-transform: uppercase;
+    }
+}
+   
 // App Global Sass
 // --------------------------------------------------
 // Put style rules here that you want to apply globally. These
